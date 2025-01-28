@@ -1,0 +1,12 @@
+{
+    "name": "MyWaWApp",
+    "start_url": "./pwa.html",
+    "icons": [
+      {
+        "src": "imgs/icon.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ],
+    "display": "fullscreen"
+  }
