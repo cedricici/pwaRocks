@@ -1,6 +1,6 @@
 {
     "name": "MyWaWApp",
-    "start_url": "./pwa.html",
+    "start_url": "./",
     "icons": [
       {
         "src": "imgs/icon.png",
