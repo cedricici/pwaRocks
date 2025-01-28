@@ -1,6 +1,6 @@
 {
     "name": "MyWaWApp",
-    "start_url": "./pwaRocks/",
+    "start_url": "/pwaRocks/",
     "icons": [
       {
         "src": "imgs/icon.png",
